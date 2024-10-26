@@ -2,4 +2,4 @@ console.log("Sachin Yadav")
 
 let x=1
 
-let v=
+let v=6
